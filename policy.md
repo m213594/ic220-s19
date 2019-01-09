@@ -182,7 +182,7 @@ grade. You can earn at most 1.5% points on your final grade for typos.
 
 You can earn up to 0.5% points on your final grade for submitting improved
 descriptions or corrections to existing notes. The value of the submission is at
-the description of the course coordinator.
+the discretion of the course coordinator.
 
 You will need to figure out how to submit pull/merge requests on your own, as
 this is bonus, and will not be covered explicitly in class.
